@@ -59,6 +59,21 @@ Finally, run the application:
 python app.py
 ```
 
+<div>
+    <b><h3 style="text-align: center;">Left Use BreadcrumbsPerturbed-Attention-Guidance
+, Right Original Genshin Impact XL</h3></b>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <div style="margin-bottom: 10px;">
+            <video controls autoplay src="https://github.com/user-attachments/assets/8e163351-54ca-4cf8-9091-694cdf5e1d5d"></video>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
 ## News
 
 **2024-06-25:** **🚨🚨 Big news!! Our paper has been accepted to ECCV 2024 🚨🚨**
