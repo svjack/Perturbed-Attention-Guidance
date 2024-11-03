@@ -65,6 +65,7 @@ python app.py
     <div style="display: flex; flex-direction: column; align-items: center;">
         <div style="margin-bottom: 10px;">
             <video controls autoplay src="https://github.com/user-attachments/assets/8e163351-54ca-4cf8-9091-694cdf5e1d5d"></video>
+            <p style="text-align: center;">Left Seems more pretty</p>
         </div>
     </div>
 </div>
