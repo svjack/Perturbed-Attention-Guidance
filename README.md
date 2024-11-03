@@ -17,6 +17,48 @@ by [Donghoon Ahn](https://github.com/sunovivid)\*, [Hyoungwon Cho](https://githu
 
 For more information, check out [the project page](https://ku-cvlab.github.io/Perturbed-Attention-Guidance) and [the paper](https://arxiv.org/abs/2403.17377).
 
+# Installation and Setup Guide
+
+## Update and Install Dependencies
+
+First, update your package list and install the necessary dependencies:
+
+```bash
+sudo apt-get update && sudo apt-get install git-lfs cbm ffmpeg
+```
+
+## Clone the Repository
+
+Next, clone the repository from Hugging Face:
+
+```bash
+git clone https://huggingface.co/spaces/svjack/perturbed-attention-guidance-genshin_impact_xl
+```
+
+## Navigate to the Repository Directory
+
+Change into the cloned repository directory:
+
+```bash
+cd perturbed-attention-guidance-genshin_impact_xl
+```
+
+## Install Python Requirements
+
+Install the required Python packages using `pip`:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Application
+
+Finally, run the application:
+
+```bash
+python app.py
+```
+
 ## News
 
 **2024-06-25:** **🚨🚨 Big news!! Our paper has been accepted to ECCV 2024 🚨🚨**
